@@ -1,5 +1,5 @@
 resources:
-# IBM Software
+## IBM Software
 
 ## Cloud Pak for Integration
 #- argocd/operators/ibm-ace-operator.yaml
